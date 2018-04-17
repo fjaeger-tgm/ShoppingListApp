@@ -1,0 +1,6 @@
+{
+    "flow.enabled": true,
+    "javascript.validate.enable": false,
+    "flow.useNPMPackagedFlow": true,
+    "flow.pathToFlow": "node_modules/flow-bin/cli.js"
+}
